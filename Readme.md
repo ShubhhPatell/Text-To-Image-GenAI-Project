@@ -23,7 +23,7 @@ Below are the screenshots of the Streamlit app:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/k-Rohit/GenAI-Projects.git
+   git clone https://github.com/ShubhhPatell/Text-To-Image-GenAI-Project
    cd Text-to-Image
    cd Image-gen-from-text
 2. ```bash
