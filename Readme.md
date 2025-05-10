@@ -1,4 +1,5 @@
-# Image Generation from Text by Patel Shubh Bhargavkumar
+# Image Generation from Text by 
+# Patel Shubh Bhargavkumar
 
 This is an application where users can provide text as input and receive generated images based on the given prompt.
 
